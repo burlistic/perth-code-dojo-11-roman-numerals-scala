@@ -1,6 +1,6 @@
 # perth-code-dojo-11-roman-numerals-scala
 
-For this months code dojo we tried out a new technique and a new langauge (Scala)
+For this months code dojo we tried out a new technique (mob programming) and a new langauge (Scala)
 
 We did the roman numerals kata - orginally taken from http://www.codingdojo.org/cgi-bin/index.pl?KataRomanNumerals
 
